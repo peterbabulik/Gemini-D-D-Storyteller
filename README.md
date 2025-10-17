@@ -46,7 +46,7 @@ The application's workflow is centered around its interaction with the Google Ge
 
 ## 💡 The "Vibe Coded" Approach
 
-This project is a testament to the power of AI-assisted development. The term "vibe coded" refers to a development process where the programmer guides a generative AI model (in this case, likely within Google AI Studio) to produce the source code, focusing on the high-level goals and "vibes" of the application rather than writing every line of code manually. This approach allowed for the rapid prototyping and development of a complex, multi-modal AI application.
+This project is a testament to the power of AI-assisted development. The term "vibe coded" refers to a development process where the programmer guides a generative AI model (in this case, Google AI Studio) to produce the source code, focusing on the high-level goals and "vibes" of the application rather than writing every line of code manually. This approach allowed for the rapid prototyping and development of a complex, multi-modal AI application.
 
 ##  futurereadme
 To get a local copy up and running, follow these simple steps.
