@@ -19,7 +19,7 @@ This entire application was developed using a "vibe coding" approach within [ais
 
 While the project was "vibe coded," the underlying technology appears to be:
 
-*   **Frontend:** A modern web framework, likely React (based on the `.tsx` file extensions).
+*   **Frontend:** A modern web framework, React.
 *   **AI Integration:** The application is deeply connected to the Google Gemini "framework" for its core functionalities:
     *   **Story & Text:** Gemini API for text generation.
     *   **Images:** Gemini API for image generation.
