@@ -38,8 +38,6 @@ The application's workflow is centered around its interaction with the Google Ge
 
 ## 📸 Screenshots
 
-*(You can embed your screenshots here in your actual README.md file on GitHub)*
-
 **Application Interface:**
 ![Gemini D&D Storyteller Application](https://raw.githubusercontent.com/peterbabulik/Gemini-D-D-Storyteller/main/picture2.png)
 
